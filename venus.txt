@@ -1,1 +1,2 @@
 Thoughts about Venus
+On master branch make a new thing
